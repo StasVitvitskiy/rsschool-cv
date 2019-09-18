@@ -1,13 +1,14 @@
 # Stanislav Vitvitskiy #
-============
+
 
 Contact Info
 ------------
--------------------     --------------------------------
-1 Gmail                 stanislav.i.vitvitskiy@gmail.com
-2 Github                StasVitvitskiy
-3 Cell phone            +1(425)-375 - 6023  
--------------------     ----------------------------
+
+**Gmail**      *stanislav.i.vitvitskiy@gmail.com*
+**Github**     *StasVitvitskiy*
+**Cell phone** *+1(425)-375 - 6023* 
+-------------------------------------------------
+
 
 Summary
 -------
@@ -18,7 +19,7 @@ Summary
 
 Skills/Programming Languages
 ----------------------------
-:   **C++:** Recently createda Student Info Organiser that takes an input from the user and performs various(selected)
+:   **C++:** Recently created a Student Info Organiser that takes an input from the user and performs various(selected)
  by the user operations. Some of them include but are not limited to
 various sorting methods, CRUD operations and different numeric and alphabetical validations.
 
