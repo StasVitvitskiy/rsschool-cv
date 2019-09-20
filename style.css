@@ -158,7 +158,14 @@ cursor: pointer
     padding:10px;
     text-align:justify;
 }
-
+@media screen and (max-width: 75em) {
+    body
+    { font-size:16px;}
+}
+@media screen and (max-width: 60em) {
+    body
+    { font-size:14px;}
+}
 @media screen and (max-width: 48em) {
     .right,.left
     {
@@ -170,16 +177,6 @@ cursor: pointer
     .handmade {
         text-align:center !important;
         margin-top:0px !important;
-    }
-
-    @media screen and (max-width: 75em) {
-        body
-        { font-size:16px;}
-    }
-
-    @media screen and (max-width: 60em) {
-        body
-        { font-size:14px;}
     }
     .clearfix:after {
         content: " ";
